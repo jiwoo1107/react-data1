@@ -1,0 +1,37 @@
+[
+    {
+        "id":8,
+        "title": "VISTA GRAND SWEAT PANT VULCAN GARMENT DYED",
+        "imgUrl": "/img/sale9.jpg",
+        "price": 118800,
+        "popular": 5,
+        "discount": "▼40%"
+    },
+   
+    {
+        "id":9,
+        "title": "L/S VANCE RUGBY SHIRT BLACK/BLACK",
+        "imgUrl": "/img/sale10.jpg",
+        "price": 93000,
+        "popular": 4,
+        "discount": "▼40%"
+    },
+
+    {
+        "id":10,
+        "title": "DARPER JACKET SALVIA/BLACK",
+        "imgUrl": "/img/sale11.jpg",
+        "price": 217800,
+        "popular": 8,
+        "discount": "▼40%"
+    },
+
+    {
+        "id":11,
+        "title": "WORK VARSITY BOMBER BLACK",
+        "imgUrl": "/img/sale12.jpg",
+        "price": 262800,
+        "popular": 11,
+        "discount": "▼40%"
+    }
+]

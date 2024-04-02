@@ -1,0 +1,37 @@
+[
+    {
+        "id":4,
+        "title": "QUARTERSNACKS OG ARCTIC COAT BLUE AGED CANVAS",
+        "imgUrl": "/img/sale5.jfif",
+        "price": 354400,
+        "popular": 1,
+        "discount": "▼20%"
+    },
+   
+    {
+        "id":5,
+        "title": "MADISON LOGO CAP BLACK",
+        "imgUrl": "/img/sale6.jpg",
+        "price": 40800,
+        "popular": 3,
+        "discount": "▼20%"
+    },
+
+    {
+        "id":6,
+        "title": "MACK LINER VETIVER",
+        "imgUrl": "/img/sale7.jpg",
+        "price": 139800,
+        "popular": 10,
+        "discount": "▼40%"
+    },
+
+    {
+        "id":7,
+        "title": "LAYTON JACKET AMARONE/AMARONE",
+        "imgUrl": "/img/sale8.jpg",
+        "price": 262800,
+        "popular": 9,
+        "discount": "▼40%"
+    }
+]
